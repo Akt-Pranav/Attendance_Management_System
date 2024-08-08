@@ -1,6 +1,6 @@
-# Attendance_Management_System
+# Attendance Management System
 
-**Attendance_Management_System** is an efficient and secure attendance management system designed for staff. It provides features for managing attendance, requesting leave, and viewing reports.
+**Attendance Management System** is an efficient and secure attendance management system designed for staff. It provides features for managing attendance, requesting leave, and viewing reports.
 
 
 ## Tech Stack
